@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/StyledWindowCards/static/css/main.31d6cfe0.css",
+    "main.js": "/StyledWindowCards/static/js/main.f5640582.js",
+    "static/js/787.4b1552e3.chunk.js": "/StyledWindowCards/static/js/787.4b1552e3.chunk.js",
+    "static/media/Image.png": "/StyledWindowCards/static/media/Image.6ce1a1a5a2128ce739b1.png",
+    "index.html": "/StyledWindowCards/index.html",
+    "main.f5640582.js.map": "/StyledWindowCards/static/js/main.f5640582.js.map",
+    "787.4b1552e3.chunk.js.map": "/StyledWindowCards/static/js/787.4b1552e3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.f5640582.js"
+  ]
+}
